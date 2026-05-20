@@ -152,11 +152,8 @@ img {
   gap: 1.5rem;
 }
 
-.summary-cards {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-}
 
-.card,
+.card1,
 .project-card,
 .content-block {
   background: var(--surface);
@@ -165,17 +162,26 @@ img {
   padding: 1.75rem;
 }
 
-.card h2,
+.card2 {
+  background: var(--surface);
+  text-align:center;
+  width:100%
+}
+
+.card1 h2,
+.card2 h2
 .project-card h2,
 .content-block h2 {
   margin-top: 0;
 }
 
-.card p,
+.card1 p,
+.card2 p,
 .project-card p,
 .content-block p {
   color: var(--muted);
 }
+
 
 .skill-list {
   list-style: none;
