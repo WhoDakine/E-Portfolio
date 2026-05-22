@@ -13,3 +13,10 @@ after changes:
 git add .
 git commit -m "Updated website"
 git push
+
+
+
+things to do:
+add pics
+add captions/brief descriptions
+overall polish
