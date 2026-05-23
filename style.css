@@ -269,6 +269,25 @@ img {
   color: var(--text);
 }
 
+.cert-card a {
+  text-align: left;
+  color: var(--primary);
+  text-decoration: none;
+}
+
+#running {
+  height: 100%;
+  
+}
+
+.sports {
+  display: flex;
+}
+
+.left-align {
+  text-align: left;
+}
+
 .card1 p,
 .card2 p,
 .project-card p,
