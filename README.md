@@ -1,22 +1,2 @@
 # E-Portfolio
-title
-
-notes for self below
-
-on a different device:
-git clone https://github.com/WhoDakine/E-Portfolio.git OR git pull (if cloned already)
-cd E-Portfolio
-code .
-
-
-after changes:
-git add .
-git commit -m "Updated website"
-git push
-
-
-
-things to do:
-add pics
-add captions/brief descriptions
-overall polish
+an electronic portfolio documenting my accomplishments during high school so far. This project is a WIP, and will continue to be worked on over the next year.
